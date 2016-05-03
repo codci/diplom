@@ -1,0 +1,2 @@
+# diplom
+Diplom_autotest_for_android_applications
